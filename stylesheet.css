@@ -1,0 +1,40 @@
+body {
+    background-color: darkgrey;
+  }
+  
+  h1.titulo1 {
+    color: black;
+    margin-left: 200px;
+    margin-right: 50px;
+    background-color:aqua;
+  }
+
+  p.parrafo1 {
+    margin-right: 50px;
+    margin-left: 200px;
+    background-color: aqua;
+  }
+  h1.titulo2 {
+    color: black;
+    margin-left: 200px;
+    margin-right: 50px;
+    background-color:yellow;
+  }
+  p.parrafo2 {
+    margin-right: 50px;
+    margin-left: 200px;
+    background-color: yellow; 
+  }
+
+  h1.titulo3{
+    color: black;
+    margin-left: 200px;
+    margin-right: 50px;
+    background-color: orange
+  }
+
+  p.parrafo3 {
+    margin-right: 50px;
+    margin-left: 200px;
+    background-color: orange    
+  }
