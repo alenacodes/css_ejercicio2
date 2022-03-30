@@ -1,7 +1,26 @@
 body {
-    background-color: darkgrey;
+    background-color: gray;
+    font-family: sans-serif;
   }
-  
+  ul {
+   list-style-type: none;
+   width: 20%;
+
+  }
+  li a {
+    display: block;
+    width: 60px;
+    background-color: #dddddd;
+  }
+  div {
+    background-color: lightgrey;
+    width: 80%;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+
+
   h1.titulo1 {
     color: black;
     margin-left: 200px;
@@ -30,11 +49,13 @@ body {
     color: black;
     margin-left: 200px;
     margin-right: 50px;
-    background-color: orange
+    padding: 20px;
+    background-color: orange;
   }
 
   p.parrafo3 {
     margin-right: 50px;
     margin-left: 200px;
-    background-color: orange    
+    padding: 20px;
+    background-color: orange;  
   }
