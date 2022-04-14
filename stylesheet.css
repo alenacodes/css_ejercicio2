@@ -2,3 +2,75 @@
     max-height: 75vh;
     object-fit: cover;
 }
+.imp1{
+    width:50%;
+    height:50%;
+    padding: 3px; margin: 3px; border: 2px solid black; float: center;
+    display:block;
+    margin:auto;
+
+
+   } 
+.imp2{
+    width:50%;
+    height:50%;
+    padding: 3px; margin: 3px; border: 2px solid black; float: center;
+    display:block;
+    margin:auto;
+   } 
+.imp3{
+    width:50%;
+    height:50%;
+    padding: 3px; margin: 3px; border: 2px solid black; float: center;
+    display:block;
+    margin:auto;
+   } 
+.imp4{
+    width:30%;
+    height:40%;
+    padding: 3px; margin: 3px; border: 2px solid black; float: center;
+    display:block;
+    margin:auto;
+   }
+
+   .header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.imagen1{
+    width:50%;
+    height:50%;
+    padding: 3px; margin: 3px; border: 2px solid black; float: center;
+    display:block;
+    margin:auto;
+
+
+   } 
+.imagen2{
+    width:50%;
+    height:50%;
+    padding: 3px; margin: 3px; border: 2px solid black; float: center;
+    display:block;
+    margin:auto;
+   } 
+.imagen3{
+    width:50%;
+    height:50%;
+    padding: 3px; margin: 3px; border: 2px solid black; float: center;
+    display:block;
+    margin:auto;
+   } 
+.imagen4{
+    width:30%;
+    height:40%;
+    padding: 3px; margin: 3px; border: 2px solid black; float: center;
+    display:block;
+    margin:auto;
+   }
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
+}
